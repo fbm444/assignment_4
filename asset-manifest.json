@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fbm444.github.io/assignment-4/static/css/main.0fe46769.css",
+    "main.js": "/fbm444.github.io/assignment-4/static/js/main.38f69117.js",
+    "index.html": "/fbm444.github.io/assignment-4/index.html",
+    "main.0fe46769.css.map": "/fbm444.github.io/assignment-4/static/css/main.0fe46769.css.map",
+    "main.38f69117.js.map": "/fbm444.github.io/assignment-4/static/js/main.38f69117.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fe46769.css",
+    "static/js/main.38f69117.js"
+  ]
+}
